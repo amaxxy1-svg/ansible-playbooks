@@ -1,6 +1,6 @@
 ---
 - name: Install and start a service
-  hosts: allhost
+  hosts: all
   become: yes
 
   vars:
